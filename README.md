@@ -4,7 +4,7 @@
 
 Name: Queenie Jill D. Sumalinog
 Year Level: 4th Year
-Program: BSIT
+Program: Bachelor of Science in Information Technology
 School: Davao del Norte State College
 Set/Section: C
 Subject: IT415 - Application Development and Emerging Technologies
